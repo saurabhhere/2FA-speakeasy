@@ -1,0 +1,31 @@
+{
+    "user": {
+        "c4d8d30f-e1a4-4d33-b61d-6982aab078c9": {
+            "id": "c4d8d30f-e1a4-4d33-b61d-6982aab078c9",
+            "temp_secret": {
+                "ascii": "el>qNp?KNUgFLAkmIhhg6#,%C,If,Pvu",
+                "hex": "656c3e714e703f4b4e5567464c416b6d4968686736232c25432c49662c507675",
+                "base32": "MVWD44KOOA7UWTSVM5DEYQLLNVEWQ2DHGYRSYJKDFREWMLCQOZ2Q",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=MVWD44KOOA7UWTSVM5DEYQLLNVEWQ2DHGYRSYJKDFREWMLCQOZ2Q"
+            }
+        },
+        "aa985364-af98-4e17-adbb-d3386a18bd97": {
+            "id": "aa985364-af98-4e17-adbb-d3386a18bd97",
+            "secret": {
+                "ascii": "89d13&L]IIcx?#9[kzZ8rB?cVv0/8xZ^",
+                "hex": "3839643133264c5d494963783f23395b6b7a5a3872423f635676302f38785a5e",
+                "base32": "HA4WIMJTEZGF2SKJMN4D6IZZLNVXUWRYOJBD6Y2WOYYC6ODYLJPA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=HA4WIMJTEZGF2SKJMN4D6IZZLNVXUWRYOJBD6Y2WOYYC6ODYLJPA"
+            }
+        },
+        "ef9e61bf-e04d-46c4-9c97-e526754d2717": {
+            "id": "ef9e61bf-e04d-46c4-9c97-e526754d2717",
+            "secret": {
+                "ascii": "BikZ0f<>GO/i&>oNkp*h${{BG$1^?6d}",
+                "hex": "42696b5a30663c3e474f2f69263e6f4e6b702a68247b7b424724315e3f36647d",
+                "base32": "IJUWWWRQMY6D4R2PF5USMPTPJZVXAKTIER5XWQSHEQYV4PZWMR6Q",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=IJUWWWRQMY6D4R2PF5USMPTPJZVXAKTIER5XWQSHEQYV4PZWMR6Q"
+            }
+        }
+    }
+}
